@@ -1,0 +1,9 @@
+{
+  "name": "test",
+  "version": ".0.1",
+  "description": "EXT Test",
+  "entrypoint": "test",
+  "tags": ["api"],
+  "dependencies": ["projects"],
+  "registry_url": "https://github.com/andremore/test.git"
+}
